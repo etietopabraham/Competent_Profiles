@@ -3,4 +3,9 @@ seaborn
 numpy
 matplotlib
 nltk
+plotly
+wordcloud
+scikit-learn
+statsmodels
+warnings
 -e .
