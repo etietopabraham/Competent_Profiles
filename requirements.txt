@@ -7,5 +7,4 @@ plotly
 wordcloud
 scikit-learn
 statsmodels
-warnings
 -e .
