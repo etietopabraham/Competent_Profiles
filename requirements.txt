@@ -7,4 +7,7 @@ plotly
 wordcloud
 scikit-learn
 statsmodels
--e .
+wordcloud
+xgboost
+catboost
+#-e .
