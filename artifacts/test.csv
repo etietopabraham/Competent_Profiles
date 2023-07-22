@@ -1,0 +1,114 @@
+Unnamed: 0,work_year,experience_level,employment_type,job_title,salary_in_usd,employee_residence,remote_ratio,company_location,company_size,salary_in_k_usd
+35,2020,Intermediate,Full Time,Data Engineer,74130,Austria,Partially Remote,Austria,Large,74.13
+114,2021,Intermediate,Full Time,Data Engineer,45391,Netherlands,Fully Remote,Netherlands,Large,45.391
+172,2021,Junior,Full Time,Data Analyst,60000,United States of America,Fully Remote,United States of America,Small,60.0
+237,2021,Intermediate,Full Time,Data Scientist,46809,Spain,Fully Remote,Spain,Medium,46.809
+291,2022,Senior,Full Time,Data Analyst,120600,United States of America,Fully Remote,United States of America,Medium,120.6
+531,2022,Intermediate,Full Time,Data Analyst,75000,Canada,On Site,Canada,Medium,75.0
+216,2021,Junior,Part Time,Computer Vision Engineer,28609,Denmark,Partially Remote,Denmark,Small,28.609
+116,2021,Intermediate,Full Time,Data Scientist,50000,Nigeria,Fully Remote,Nigeria,Large,50.0
+265,2021,Senior,Full Time,Data Engineer,160000,Puerto Rico,Partially Remote,United States of America,Small,160.0
+568,2022,Senior,Full Time,Data Analyst,80000,United States of America,Fully Remote,United States of America,Medium,80.0
+383,2022,Senior,Full Time,Data Analyst,93700,United States of America,Fully Remote,United States of America,Medium,93.7
+302,2022,Senior,Full Time,Data Scientist,146000,United States of America,Fully Remote,United States of America,Medium,146.0
+401,2022,Senior,Full Time,Data Engineer,154600,United States of America,Fully Remote,United States of America,Large,154.6
+304,2022,Junior,Full Time,Data Engineer,52351,United Kingdom (Great Britain),Fully Remote,United Kingdom (Great Britain),Medium,52.351
+518,2022,Intermediate,Full Time,Data Scientist,122346,Switzerland,On Site,Switzerland,Large,122.346
+38,2020,Junior,Full Time,Data Analyst,10000,Nigeria,Fully Remote,Nigeria,Small,10.0
+267,2021,Intermediate,Full Time,Data Engineer,111775,United States of America,On Site,United States of America,Medium,111.775
+450,2022,Senior,Full Time,Data Engineer,80000,United States of America,Fully Remote,United States of America,Medium,80.0
+321,2022,Senior,Full Time,Data Engineer,220110,United States of America,On Site,United States of America,Medium,220.11
+275,2021,Junior,Full Time,Data Scientist,100000,United States of America,Fully Remote,United States of America,Medium,100.0
+46,2020,Intermediate,Full Time,Data Scientist,76958,United Kingdom (Great Britain),Fully Remote,United Kingdom (Great Britain),Small,76.958
+64,2020,Senior,Full Time,Machine Learning Engineer,45618,Croatia,Fully Remote,Croatia,Small,45.618
+425,2022,Intermediate,Full Time,Data Engineer,82900,United States of America,On Site,United States of America,Medium,82.9
+207,2021,Senior,Full Time,Data Engineer,165000,United States of America,On Site,United States of America,Medium,165.0
+145,2021,Senior,Full Time,Machine Learning Engineer,82744,Belgium,Partially Remote,Belgium,Medium,82.744
+354,2022,Senior,Full Time,Data Engineer,78526,United Kingdom (Great Britain),On Site,United Kingdom (Great Britain),Medium,78.526
+258,2021,Senior,Full Time,Machine Learning Engineer,185000,United States of America,Partially Remote,United States of America,Large,185.0
+563,2022,Senior,Full Time,Data Engineer,140250,United States of America,Fully Remote,United States of America,Medium,140.25
+462,2022,Intermediate,Part Time,Data Engineer,54957,Germany,Partially Remote,Germany,Large,54.957
+102,2021,Intermediate,Full Time,Data Analyst,36259,Hungary,Partially Remote,United States of America,Large,36.259
+372,2022,Senior,Full Time,Machine Learning Engineer,164996,United States of America,On Site,United States of America,Medium,164.996
+137,2021,Intermediate,Full Time,Machine Learning Engineer,77364,Japan,Partially Remote,Japan,Small,77.364
+471,2022,Intermediate,Full Time,Data Analyst,50000,United States of America,Fully Remote,United States of America,Medium,50.0
+43,2020,Intermediate,Full Time,Data Engineer,106000,United States of America,Fully Remote,United States of America,Large,106.0
+605,2022,Senior,Full Time,Data Analyst,150000,United States of America,Fully Remote,United States of America,Medium,150.0
+285,2021,Senior,Full Time,Data Science Manager,94665,India,Partially Remote,India,Large,94.665
+278,2021,Senior,Full Time,Data Scientist,20171,Turkey,Partially Remote,Turkey,Large,20.171
+454,2022,Junior,Full Time,Computer Vision Engineer,125000,United States of America,On Site,United States of America,Medium,125.0
+204,2021,Intermediate,Full Time,Data Scientist,160000,United States of America,Fully Remote,United States of America,Large,160.0
+181,2021,Intermediate,Full Time,Data Scientist,90734,Germany,Partially Remote,Germany,Large,90.734
+341,2022,Senior,Full Time,Data Engineer,93700,United States of America,Fully Remote,United States of America,Medium,93.7
+134,2021,Junior,Full Time,Data Scientist,100000,United States of America,On Site,United States of America,Small,100.0
+76,2021,Intermediate,Full Time,Data Analyst,100000,United States of America,Fully Remote,United States of America,Medium,100.0
+579,2022,Senior,Full Time,Data Engineer,25000,United States of America,Fully Remote,United States of America,Medium,25.0
+564,2022,Senior,Full Time,Data Analyst,116150,United States of America,Fully Remote,United States of America,Medium,116.15
+61,2020,Intermediate,Full Time,Data Engineer,130800,Spain,Fully Remote,United States of America,Medium,130.8
+318,2022,Senior,Full Time,Data Analyst,90320,United States of America,Fully Remote,United States of America,Medium,90.32
+559,2022,Senior,Full Time,Data Scientist,140400,United States of America,On Site,United States of America,Medium,140.4
+159,2021,Junior,Full Time,Machine Learning Engineer,125000,United States of America,Fully Remote,United States of America,Small,125.0
+88,2021,Senior,Full Time,Data Analyst,170000,United States of America,Fully Remote,United States of America,Large,170.0
+165,2021,Senior,Full Time,Data Scientist,165000,United States of America,Fully Remote,United States of America,Large,165.0
+117,2021,Intermediate,Full Time,Data Engineer,40189,Greece,Fully Remote,Greece,Medium,40.189
+71,2020,Intermediate,Full Time,Data Scientist,42197,France,Partially Remote,France,Small,42.197
+176,2021,Intermediate,Full Time,Data Scientist,2859,Mexico,On Site,Mexico,Small,2.859
+457,2022,Senior,Full Time,Machine Learning Engineer,87932,Germany,On Site,Germany,Medium,87.932
+381,2022,Senior,Full Time,Data Engineer,101570,United States of America,Fully Remote,United States of America,Medium,101.57
+196,2021,Junior,Full Time,Data Analyst,9272,Kenya,Fully Remote,Kenya,Small,9.272
+251,2021,Junior,Full Time,Data Scientist,90000,United States of America,Fully Remote,United States of America,Small,90.0
+171,2021,Intermediate,Full Time,Data Engineer,82528,United Kingdom (Great Britain),Fully Remote,United Kingdom (Great Britain),Large,82.528
+122,2021,Junior,Full Time,Data Analyst,50000,United States of America,Fully Remote,United States of America,Medium,50.0
+380,2022,Senior,Full Time,Data Engineer,136994,United States of America,Fully Remote,United States of America,Medium,136.994
+584,2022,Senior,Full Time,Data Analyst,105000,United States of America,Fully Remote,United States of America,Medium,105.0
+241,2021,Intermediate,Full Time,Data Analyst,80000,United States of America,Fully Remote,United States of America,Large,80.0
+323,2022,Senior,Full Time,Data Scientist,180000,United States of America,On Site,United States of America,Large,180.0
+567,2022,Intermediate,Full Time,Data Analyst,65438,United Kingdom (Great Britain),On Site,United Kingdom (Great Britain),Medium,65.438
+266,2021,Intermediate,Full Time,Data Engineer,93150,United States of America,On Site,United States of America,Medium,93.15
+231,2021,Senior,Full Time,Machine Learning Engineer,256000,United States of America,Fully Remote,United States of America,Small,256.0
+254,2021,Intermediate,Full Time,Data Analyst,93000,United States of America,Fully Remote,United States of America,Large,93.0
+496,2022,Junior,Full Time,Data Engineer,58035,Pakistan,Fully Remote,Germany,Medium,58.035
+361,2022,Senior,Full Time,Data Analyst,61300,Canada,Fully Remote,Canada,Medium,61.3
+67,2020,Senior,Full Time,Data Science Manager,190200,United States of America,Fully Remote,United States of America,Medium,190.2
+239,2021,Junior,Full Time,Data Engineer,21637,India,Partially Remote,India,Medium,21.637
+247,2021,Intermediate,Full Time,Data Engineer,12103,Turkey,On Site,Turkey,Medium,12.103
+595,2022,Senior,Full Time,Data Analytics Manager,109280,United States of America,Fully Remote,United States of America,Medium,109.28
+220,2021,Intermediate,Full Time,Machine Learning Engineer,46597,Poland,Fully Remote,Poland,Large,46.597
+221,2021,Intermediate,Full Time,Data Scientist,116914,United Kingdom (Great Britain),Partially Remote,United Kingdom (Great Britain),Large,116.914
+87,2021,Intermediate,Full Time,Data Analyst,110000,United States of America,Fully Remote,United States of America,Large,110.0
+539,2022,Intermediate,Full Time,Data Scientist,102100,United States of America,On Site,United States of America,Medium,102.1
+589,2022,Senior,Full Time,Data Analyst,60000,United States of America,Fully Remote,United States of America,Medium,60.0
+268,2021,Intermediate,Full Time,Data Engineer,28016,Turkey,Fully Remote,Turkey,Medium,28.016
+162,2021,Intermediate,Full Time,Data Engineer,28369,Malta,Partially Remote,Malta,Large,28.369
+202,2021,Intermediate,Full Time,Data Scientist,37825,Spain,Fully Remote,Spain,Large,37.825
+195,2021,Intermediate,Full Time,Data Scientist,147000,United States of America,Partially Remote,United States of America,Large,147.0
+508,2022,Junior,Full Time,Research Scientist,120000,United States of America,Fully Remote,United States of America,Large,120.0
+599,2022,Intermediate,Full Time,Data Scientist,130000,United States of America,Fully Remote,United States of America,Medium,130.0
+409,2022,Senior,Full Time,Data Scientist,180000,United States of America,Fully Remote,United States of America,Medium,180.0
+408,2022,Intermediate,Full Time,Data Analyst,52351,United Kingdom (Great Britain),Fully Remote,United Kingdom (Great Britain),Medium,52.351
+573,2022,Senior,Full Time,Data Analyst,69000,United States of America,Fully Remote,United States of America,Medium,69.0
+16,2020,Junior,Full Time,Data Engineer,41689,Japan,Fully Remote,Japan,Small,41.689
+78,2021,Intermediate,Contract,Machine Learning Engineer,270000,United States of America,Fully Remote,United States of America,Large,270.0
+110,2021,Senior,Full Time,Machine Learning Engineer,94564,Germany,Partially Remote,Germany,Large,94.564
+324,2022,Senior,Full Time,Data Scientist,120000,United States of America,On Site,United States of America,Large,120.0
+115,2021,Junior,Full Time,Machine Learning Scientist,225000,United States of America,Fully Remote,United States of America,Large,225.0
+91,2021,Junior,Full Time,Data Scientist,76833,Germany,Fully Remote,Germany,Small,76.833
+85,2021,Intermediate,Full Time,Data Engineer,28476,Poland,Fully Remote,Poland,Large,28.476
+556,2022,Senior,Full Time,Data Engineer,145000,United States of America,Fully Remote,United States of America,Medium,145.0
+325,2022,Senior,Full Time,Data Analyst,124190,United States of America,Fully Remote,United States of America,Medium,124.19
+453,2022,Intermediate,Full Time,Machine Learning Engineer,120000,United States of America,Fully Remote,United States of America,Small,120.0
+45,2020,Junior,Part Time,Machine Learning Engineer,15966,Germany,Fully Remote,Germany,Small,15.966
+413,2022,Intermediate,Full Time,Data Engineer,49461,Greece,Fully Remote,Greece,Medium,49.461
+49,2020,Intermediate,Full Time,Data Engineer,70139,France,Partially Remote,France,Large,70.139
+460,2022,Intermediate,Full Time,Machine Learning Engineer,58255,Portugal,Partially Remote,Portugal,Large,58.255
+468,2022,Senior,Full Time,Data Engineer,100000,United States of America,Fully Remote,United States of America,Medium,100.0
+606,2022,Intermediate,Full Time,AI Scientist,200000,India,Fully Remote,United States of America,Large,200.0
+93,2021,Senior,Full Time,Data Engineer,276000,United States of America,On Site,United States of America,Large,276.0
+113,2021,Junior,Part Time,AI Scientist,12000,Pakistan,Fully Remote,United States of America,Medium,12.0
+238,2021,Junior,Full Time,Data Scientist,4000,Viet Nam,On Site,Viet Nam,Medium,4.0
+149,2021,Senior,Full Time,Data Engineering Manager,160000,Brazil,Fully Remote,United States of America,Small,160.0
+253,2021,Junior,Full Time,Data Scientist,28399,India,Fully Remote,India,Medium,28.399
+219,2021,Senior,Full Time,Data Analytics Manager,140000,United States of America,Fully Remote,United States of America,Large,140.0
+153,2021,Junior,Full Time,Data Scientist,13400,Ukraine,Fully Remote,Ukraine,Large,13.4
+350,2022,Senior,Full Time,Data Science Manager,161342,United States of America,Fully Remote,United States of America,Medium,161.342
+397,2022,Intermediate,Full Time,Data Engineer,117789,United Kingdom (Great Britain),On Site,United Kingdom (Great Britain),Medium,117.789
