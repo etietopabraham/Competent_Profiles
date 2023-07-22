@@ -187,7 +187,7 @@ class SimplyHiredJobScraper:
 if __name__ == "__main__":
     # Define the job roles and locations to scrape
     job_roles = ["Machine Learning Engineer"]
-    locations = ["Toronto, ON"]
+    locations = ["Calgary, AB"]
 
     # Create a SimplyHiredJobScraper instance
     scraper = SimplyHiredJobScraper(job_roles, locations)
@@ -196,6 +196,6 @@ if __name__ == "__main__":
     jobs_df = scraper.run()
 
     # Save the data to a CSV file
-    jobs_df.to_csv("data/jobs_data_simply_hired_toronto_ml_engineer.csv", index=False)    
+    jobs_df.to_csv("/Users/mac/Eti/CompetentPro/Competent_Profiles/notebook/data/jobs_data_simply_hired_calgary_ml_engineer.csv", index=False)    
 
 

@@ -8,6 +8,12 @@ wordcloud
 scikit-learn
 statsmodels
 wordcloud
+cmake
+ninja
 xgboost
 catboost
+PyPDF2
+cloudscraper
+bs4
+spacy
 -e .
