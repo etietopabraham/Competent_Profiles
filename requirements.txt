@@ -7,10 +7,7 @@ plotly
 wordcloud
 scikit-learn
 statsmodels
-warnings
-cloudscraper
-bs4
-urllib.parse
-concurrent.futures
-pdfminer.six
+wordcloud
+xgboost
+catboost
 -e .
