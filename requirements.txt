@@ -16,4 +16,5 @@ PyPDF2
 cloudscraper
 bs4
 spacy
+pdfplumber
 -e .
