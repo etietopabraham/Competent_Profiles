@@ -23,12 +23,12 @@ class DataIngestion:
         try:
             # Read dataset from csv
             df = pd.read_csv(
-                '/Users/R1303-M-3Stud/Documents/eti/projects/Competent_Profiles/notebook/data/cleaned_data_science_jobs.csv')
+                'notebook/data/cleaned_data_science_jobs.csv')
             logging.info("Read cleaned_data_science_jobs dataset as dataframe")
 
             # make directory for our artifacts
             logging.info(
-                "Creating artifact directory, and copying ingested data into artifact directory")
+                "Creating artifact directory, and copy ingested data into artifact directory")
             os.makedirs(os.path.dirname(
                 self.ingestion_config.raw_data_path), exist_ok=True)
             df.to_csv(self.ingestion_config.raw_data_path,
