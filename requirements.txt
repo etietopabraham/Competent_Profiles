@@ -17,4 +17,5 @@ cloudscraper
 bs4
 spacy
 pdfplumber
+dill
 -e .
